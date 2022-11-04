@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ❤ by Daniel Cybis [Me Siga nas Redes Sociais!](https://daniel-cybis.github.io/test-port/)

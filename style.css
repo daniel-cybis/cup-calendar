@@ -89,7 +89,7 @@ header {
 .card ul {
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 25px;
 
   width: 270px;
 }
@@ -140,9 +140,9 @@ transition: transform 0.3s;
   }
 }
 
-@media (min-width: 700px) {
+@media (min-width: 670px) {
 #cards {
-  max-width: 670px;
+  max-width: 2000px;
   flex-direction: row;
   flex-wrap: wrap;
 }
